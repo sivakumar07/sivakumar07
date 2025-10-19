@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siva Kumar  
+# 👋 Hi, I'm Siva
 
 🚀 **Software Architect | SaaS | Cloud | DevOps | AI Enthusiast**
 
