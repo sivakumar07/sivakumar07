@@ -1,15 +1,15 @@
-# Hi there 👋, I'm Siva
+# 👋 Hi, I'm Siva Kumar  
 
-🚀 **Software Architect | SaaS | Cloud | DevOps | AI/LLM Explorer**
+🚀 **Software Architect | SaaS | Cloud | DevOps | AI Enthusiast**
 
 ---
 
-### 💡 About Me
-- 🔭 I’m currently architecting **multi-tenant SaaS** systems (NestJS, Prisma, Kubernetes, Terraform)
-- ☁️ Expert in **AWS EKS, GCP GKE**, and IaC with **Terraform Cloud**
-- 🧠 Exploring **Generative AI**, **LLM apps**, and **observability pipelines**
-- 🧩 Experienced in **Rails**, **Spring Boot**, and **modular monoliths**
-- 💬 Ask me about backend scaling, observability, or multi-tenant architectures
+### 🧠 About Me
+- 💼 Architecting large-scale **multi-tenant SaaS** systems with **NestJS, Prisma, PostgreSQL, and Kubernetes**
+- ☁️ Experienced across **AWS EKS**, **GCP GKE**, and **Terraform Cloud**
+- 🧩 Passionate about **infrastructure automation**, **observability**, and **event-driven architecture**
+- 🤖 Exploring **Generative AI**, **LLM-based copilots**, and AI-driven developer platforms
+- 🧱 Deep experience with **Rails**, **Spring Boot**, and **modular monolith** architectures
 
 ---
 
@@ -21,23 +21,21 @@
 ---
 
 ### 📈 GitHub Stats
-![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivakumarmuthuchamy&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumarmuthuchamy&layout=compact&theme=tokyonight)
-
----
-
-### 🧭 Recent Work
-- 🔹 Building **Flowkiq** – Multi-tenant iPaaS & workflow engine  
-- 🔹 Designing large-scale **log analytics** systems on ClickHouse  
-- 🔹 Creating **Terraform modules** for production-ready infrastructure  
+![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivakumar07&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar07&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect
+### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sivakumarmuthuchamy/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/sivamuthuchamy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-blueviolet)](https://sivakumarmuthuchamy.github.io)
+[![Twitter X](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/sivamuthuchamy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet)](https://sivakumar07.github.io)
 
 ---
-⭐ **Fun fact:** I love architecting distributed systems & optimizing microservices for performance.
+
+### 📊 Activity Graph
+[![Siva's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivakumar07&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+⭐ *“Architecting scalable systems one design at a time.”*
