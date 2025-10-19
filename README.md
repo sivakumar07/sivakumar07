@@ -27,7 +27,7 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sivakumarmuthuchamy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sivakumar-muthuchamy/)
 [![Twitter X](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/sivamuthuchamy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet)](https://sivakumar07.github.io)
 
